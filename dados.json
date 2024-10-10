@@ -1,3 +1,9 @@
 {
-    "produto": []
+  "produto": [
+    {
+      "id": "49fd",
+      "nome": "Verme",
+      "foto": "https://media.licdn.com/dms/image/D4D03AQHjFEAIS1yLCg/profile-displayphoto-shrink_200_200/0/1712179604850?e=2147483647&v=beta&t=bw0ryNPZoZoAanaRp4Lq1HnwIe3N_8Qr2ZwEEdoWzyg"
+    }
+  ]
 }
